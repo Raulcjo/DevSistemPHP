@@ -1,0 +1,22 @@
+/*
+Seletor de Elemento
+*/
+
+h2{
+    color: blueviolet;
+}
+
+/* 
+Seletor de classe
+*/
+.chave{
+    font-family: Georgia;
+}
+
+/*
+Seletor de ID
+*/
+#titulo{
+
+    background-color: cadetblue;
+}
