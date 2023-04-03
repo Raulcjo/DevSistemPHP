@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(180, 133, 63);
+    text-align: center;
+}
+p{
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   color: rgb(255, 255, 255);
+   font-size: larger;
+}
+h2{
+    font-family: Cambria, Cochin, Georgia, 'Times', 'Times New Roman', serif;
+    color: rgb(255, 255, 255);
+}
+.estrela{
+    font-size: larger;
+    color: yellow;
+    font-weight: 200;
+}
+.seja{
+    font-size: larger;
+    color: rgb(253, 228, 190);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
