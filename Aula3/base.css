@@ -1,0 +1,26 @@
+body{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: rgb(80, 80, 80);
+}/*Seletor de Elementos*/
+p{
+  text-align: center;
+}
+h2{
+  text-align: center;
+}
+/*Seletor de classe*/
+.titulo{
+      text-align: center;
+      background-color: #FFCDB2;
+      margin:5%;
+      height: 90px;
+      padding: 7%;
+      border-radius: 10px;
+}
+.container{
+   /*display: inline;*/
+    border: 6px;
+    border-style: ridge;
+    margin: 5%;
+    padding: 3%;
+}
