@@ -1,0 +1,18 @@
+body{
+    font-family: 'Arial', Helvetica, sans-serif;
+}
+h3{
+    padding: 0;
+    margin: 0;
+}
+textarea{
+    height: 250%;
+    width: 50%;
+}
+.negrito{
+    font-weight: bolder;
+    width: 90%;
+}
+.comprido{
+    width: 90%;
+}
